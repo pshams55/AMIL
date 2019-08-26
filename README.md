@@ -8,13 +8,13 @@ Python Implementation of ["AMIL: Adversarial Multi Instance Learning for Human P
 
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
-	<img src="img/fig.1.png" width="80%" height="10%"/>
+	<img src="img/fig.1.png" width="60%" height="10%"/>
 </div>
 </a>
 
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
-	<img src="img/fig.2.png" width="80%" height="50%"/>
+	<img src="img/fig.2.png" width="60%" height="50%"/>
 </div>
 </a>
 
@@ -24,31 +24,31 @@ Python Implementation of ["AMIL: Adversarial Multi Instance Learning for Human P
 
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
-	<img src="img/fig.3.png" width="80%" height="50%"/>
+	<img src="img/fig.3.png" width="60%" height="30%"/>
 </div>
 </a>
 
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
-	<img src="img/fig.4.png" width="80%" height="50%"/>
+	<img src="img/fig.4.png" width="70%" height="50%"/>
 </div>
 </a>
 
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
-	<img src="img/fig.5.png" width="80%" height="50%"/>
+	<img src="img/fig.5.png" width="50%" height="30%"/>
 </div>
 </a>
 
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
-	<img src="img/fig.6.png" width="80%" height="50%"/>
+	<img src="img/fig.6.png" width="60%" height="50%"/>
 </div>
 </a>
 
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
-	<img src="img/fig.7.png" width="80%" height="50%"/>
+	<img src="img/fig.7.png" width="60%" height="50%"/>
 </div>
 </a>
 
