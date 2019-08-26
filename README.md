@@ -64,7 +64,7 @@ Python Implementation of ["AMIL: Adversarial Multi Instance Learning for Human P
 If you find this project useful, we would be grateful if you cite the paper：
 
 ```
-@article{tensorlayer2017,
+@article{TOMM 2019,
 author = {Pourya Shamsolmoali, Masoumeh Zareapoor, Huiyu Zhou and Jie Yang},
 journal = {ACM Transactions on Multimedia Computing Communications and Applications},
 title = {{AMIL: Adversarial Multi-Instance Learning for Human Pose Estimation}},
