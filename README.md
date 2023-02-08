@@ -24,7 +24,7 @@ Python Implementation of ["AMIL: Adversarial Multi Instance Learning for Human P
 
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
-	<img src="img/fig.3.png" width="60%" height="20%"/>
+	<img src="img/fig.3.png" width="65%" height="25%"/>
 </div>
 </a>
 
